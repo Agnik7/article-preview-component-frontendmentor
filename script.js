@@ -1,5 +1,5 @@
 const share = document.querySelector("#share");
-const share_icon = document.querySelectorAll(".share_icon");
+const share_icon = document.querySelectorAll(".share-icon");
 
 for (let i = 0; i < share_icon.length; i++) {
   share_icon[i].addEventListener("click", () => {
