@@ -16,8 +16,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-article-component-using-css-grid-WuqPiu__m9)
+- Live Site URL: [Live Site URL](https://agnik7.github.io/article-preview-component-frontendmentor/)
 
 ## My process
 - Mobile-first workflow
